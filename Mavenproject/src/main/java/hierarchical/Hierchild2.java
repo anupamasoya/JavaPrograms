@@ -1,4 +1,4 @@
-package hierarchical;
+/*package hierarchical;
 import defaultpractice.Defaultmodifier;
 
 public class Hierchild2 extends Hierparent {
@@ -15,4 +15,4 @@ public class Hierchild2 extends Hierparent {
 		d.defaultdisplay();//not visible outside package
 	}
 
-}
+}*/
